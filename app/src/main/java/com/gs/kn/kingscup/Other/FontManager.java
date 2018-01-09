@@ -1,4 +1,4 @@
-package com.gs.kn.kingscup.model;
+package com.gs.kn.kingscup.Other;
 
 import android.content.Context;
 import android.graphics.Typeface;
